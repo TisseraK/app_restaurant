@@ -1,6 +1,6 @@
-# uber_eat
+# Restaurant
 
-Uber Eat Concept App https://www.behance.net/gallery/125227715/Uber-Redesign?tracking_source=search_projects_recommended%7Cconcept%20app%20design
+Restaurant Concept App https://www.behance.net/gallery/125227715/Uber-Redesign?tracking_source=search_projects_recommended%7Cconcept%20app%20design
 
 ## Getting Started
 
